@@ -1,0 +1,19 @@
+{
+  "name": "contest-wesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "43.apiwebsite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabh23030303/contest-wesite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabh23030303/contest-wesite/issues"
+  },
+  "homepage": "https://github.com/sourabh23030303/contest-wesite#readme"
+}
